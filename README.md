@@ -14,7 +14,6 @@ This is a Library Management System built using Spring Boot that follows the MVC
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Features
