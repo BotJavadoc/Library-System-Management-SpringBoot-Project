@@ -127,6 +127,6 @@ Contributions are welcome! Please fork the repository and create a pull request.
 
 ## Contact
 
-For any inquiries, please contact [yourname](mailto:abhishekabu0155@gmail.com).
+For any inquiries, please contact [Abhishek G](mailto:abhishekabu0155@gmail.com).
 
 
