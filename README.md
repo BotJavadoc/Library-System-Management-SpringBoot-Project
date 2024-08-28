@@ -29,7 +29,7 @@ This is a Library Management System built using Spring Boot that follows the MVC
 
 - **Backend**: Spring Boot, Spring MVC, Spring Security, Hibernate
 - **Frontend**: JSP, HTML, CSS, JavaScript
-- **Database**: MySQL
+- **Database**: H2 
 - **Build Tool**: Maven
 
 ## Architecture
@@ -83,7 +83,7 @@ This project follows the MVC (Model-View-Controller) architecture:
 
 5. **Access the application**:
 
-    - Open your browser and go to `http://localhost:8080`.
+    - Open your browser and go to `http://localhost:9080`.
 
 ## Usage
 
@@ -129,6 +129,4 @@ Contributions are welcome! Please fork the repository and create a pull request.
 
 For any inquiries, please contact [yourname](mailto:abhishekabu0155@gmail.com).
 
----
 
-Replace placeholders like "yourusername", "yourname", and "your.email@example.com" with your actual GitHub username, name, and email. Also, you might want to upload the screenshots to GitHub or another hosting service and update the links accordingly.
