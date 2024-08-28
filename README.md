@@ -102,18 +102,25 @@ This project follows the MVC (Model-View-Controller) architecture:
 ## Screenshots
 
 ### Login Page
-![Login Page](./login%20page.png)
-
-### Authentication Page
-![Authentication Page](./auth%20page.png)
+![login page](https://github.com/user-attachments/assets/bd27f5e9-5977-48be-bc1e-e5e4b3121641)
 
 ### Add Book
-![Add Book](./add%20book.png)
+![add book](https://github.com/user-attachments/assets/b396f87e-3d49-495b-afea-70304c31bb78)
 
-### Admin Dashboard
-![Admin Dashboard](./add%20auth.png)
+### Books List
+![add book](https://github.com/user-attachments/assets/8fe97f7c-ca15-4886-978b-f62f9baf830f)
 
-## Contributing
+### Auth List
+
+![auth page](https://github.com/user-attachments/assets/aa10387c-c883-477f-99ae-13d77df5a9a4)
+
+### Add Auth
+
+![add auth](https://github.com/user-attachments/assets/b64a49a9-7482-4979-b7d5-2212d32748c0)
+
+
+## Contributing!
+
 
 Contributions are welcome! Please fork the repository and create a pull request.
 
